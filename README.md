@@ -1,2 +1,2 @@
-# Git_Version_Control
-Notes from the Git and GitHub class I took on Udacity.com
+# Version Control
+This is a collection of guides and my own workflow notes for using Git and Github for the version control of software projects
