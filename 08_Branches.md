@@ -2,7 +2,7 @@
 
 A copy of the master branch that you can use for experimental work, like introducing a new feature that you are unsure of if it will work
 
--
+***
 
 Every branch will have its own unique commit history that is independent of other branches
 
@@ -10,7 +10,7 @@ The working main branch is called the master branch
 
 If your feature ends up working out, then you can combine your experimental feature branch with your master branch in a process called merging
 
--
+***
 
 "git branch" will display all of the branches in a repository
 
@@ -18,13 +18,13 @@ If your feature ends up working out, then you can combine your experimental feat
 
 By typing "git checkout branchName" you can switch branches to the new branch I created using the above git command
 
--
+***
 
 Times to create new branches: moving on to a different piece of work, creating new features, fixing a bug
 
 You can have a production branch of code that will always work and then a dev branch for developing new features
 
--
+***
 
 "remote branch" means it is a branch you did not create yourself
 
@@ -32,7 +32,7 @@ You can have a production branch of code that will always work and then a dev br
 
 "git checkout -b newBranchName" is the same as running "git branch newBranchName" and then "git checkout newBranchName"
 
--
+***
 
 When you merge a branch, say dev branch, into the master branch you can then delete the dev branch after the merge is complete. Doing this will only delete the label "dev", and will not effect the commit history because the dev branch commit history will be stored in the master branch after the merge is complete
 

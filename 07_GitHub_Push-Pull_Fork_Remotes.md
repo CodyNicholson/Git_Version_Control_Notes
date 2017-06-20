@@ -18,7 +18,7 @@ remote - This is short for remote repository, which refers to the URL address of
 
 "git pull remoteName branchName" - Will pull the branch from the GitHub repository to the local repository
 
--
+***
 
 push - send branch and commit history to GitHub
 

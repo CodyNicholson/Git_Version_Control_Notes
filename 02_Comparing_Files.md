@@ -8,7 +8,7 @@ Once in the staging area you can commit this file using "git commit" to copy the
 
 If a file is in the staging area but not in the repository you can use "git diff --staged" to view the differences between the files in staged and the files in the repository.
 
--
+***
 
 "git reset --hard" will discard any changes in either the working directory or the staging area. THIS IS PERMANENT!
 
